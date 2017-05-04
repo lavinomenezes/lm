@@ -38,8 +38,8 @@ A nota final será computado através da média ponderada das avaliações e pod
 * Avaliação II: HTML & CSS;
 
 ### Trabalho
-* Projeto: [A especificação do projeto](assessment/projeto.md).
-* Blog: [A especificação do blog](assessment/blog.md).
+* Projeto: [A especificação do projeto](exams/projeto.md).
+* Blog: [A especificação do blog](exams/blog.md).
 
 ## Comunicação
 Toda a comunicação será realizada usando o [![Slack Status](https://ifpb.herokuapp.com/badge.svg)](https://ifpb.herokuapp.com/)
