@@ -2,7 +2,7 @@
 
 ![Banner da disciplina](assets/lm.png)
 
-A disciplina de Linguagem de Marcação do Curso Superior de Tecnologia em Sistemas para Internet do IFPB tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento Web Front-end. Sua carga horária apresenta um total de 50 horas aula e será ministrada pelo professor Luiz Carlos Chaves e Petrônio Medeiros. Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
+A disciplina de Linguagem de Marcação do Curso Superior de Tecnologia em Sistemas para Internet do IFPB tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento Web Front-end. Sua carga horária apresenta um total de 50 horas aula e será ministrada pelo professor Luiz Carlos Chaves e Edemberg Rocha. Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
 
 ## Conteúdo
 
@@ -54,4 +54,4 @@ Toda a comunicação será realizada usando o [![Slack Status](https://ifpb.hero
 
 [![CSS e HTML](assets/books/html.jpeg)](https://novatec.com.br/livros/csshtml/) [![Apostila Caelum](assets/books/caelum.png)](https://www.caelum.com.br/apostila-html-css-javascript/)
 
-E para completar ainda mais a listagem existe estes [exemplares](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby-on-rails) como outros indicações.
+E para completar ainda mais a listagem existe estes [exemplares](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) como outros indicações.
