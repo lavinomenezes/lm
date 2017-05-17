@@ -3,7 +3,7 @@
 ## HTML
 
 * [Analisando uma página Web](inspect-page/README.md)
-* [Criando sua primeira página](hello-wolrd-html/README.md)
+* [Criando sua primeira página](hello-world-html/README.md)
 * [Primeira Página da Web](first-web-page/README.md)
 * [Página LM](page-lm/README.md)
 * [Página LM usando imagem](page-lm-img/README.md)
