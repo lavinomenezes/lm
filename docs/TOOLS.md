@@ -5,6 +5,8 @@
   - [Emmet](https://atom.io/packages/emmet)
   - [Open in Browser](https://atom.io/packages/open-in-browser)
   - [Markdow-preview-plus](https://atom.io/packages/markdown-preview-plus)
+- Sublime Text
+- Visual Studio Code
 - Mockup:
   - [Pencil Project](http://pencil.evolus.vn/)
 

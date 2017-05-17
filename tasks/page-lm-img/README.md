@@ -4,4 +4,3 @@ Os proforessores da disciplina desejam criar uma página contendo informações 
 
 *Figura 1* - Layout do Currículum
 ![Layout Curriculum](screen.png)
-
