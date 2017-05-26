@@ -83,16 +83,43 @@ Conteúdo:
 - Link local sem id (#)
 
 Exercício:
-- Exercício de Link local (#id)
+* Exercício de Link local (#id)
 
 ## Aula 08 - Primeiros Passos com CSS(20/05/17)
 
 Conteúdo:
+- Linguagem CSS:
+  - Localização: inline, internal, external e mixed
+  - Blocos de Propriedades
+  - Propriedades
+    - Tipografia: color, font-size, text-align, font-family
+    - Coluna: columns
+  - Seletores:
+    - Grupo de Seletores
+    - Tipos: element, #id, .class, descendant
+  - &lt;div> e &lt;style>
+- Inspecionando CSS com o navegador
 
 Exercício:
+* Estudar a página de [Referência do CSS no MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Selectors)
+* Analisando uma página com estilo
+* Criar a página de LM usando estilos
 
-## Aula 09 - Primeiros Passos com CSS (21/05/17)
+## Aula 09 - Estilizando texto com CSS (21/05/17)
 
 Conteúdo:
+  - &lt;span>
+  - Herança
+  - Propriedades
+    - Tipografia: text-transform, text-indent, text-decoration, line-height, font-style, font-weight,
+    - Plano de fundo: background-color
+  - Seletores: Adjacent sibling (+), :visited, :hover
 
 Exercício:
+* Tentar analisar e reproduzir a [página da documentação go](https://golang.org/doc/)
+
+## Aula 10 - Prática sobre Estilizando texto com CSS (26/05/17)
+
+Exercício:
+* Criando seu primeiro estilo
+* Curriculum Viate com estilo
