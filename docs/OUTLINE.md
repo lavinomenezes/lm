@@ -123,3 +123,21 @@
 **Exercício:**
 * Criando seu primeiro estilo
 * Curriculum Viate com estilo
+
+## Aula 11 - Trabalhando com font-family e icones (31/05/17)
+
+**Conteúdo:**
+
+**Exercício:**
+
+## Aula 12 - Trabalhando com font-family e icones (02/06/17)
+
+**Conteúdo:**
+
+**Exercício:**
+
+## Aula 13 - Trabalhando com font-family e icones (03/06/17)
+
+**Conteúdo:**
+
+**Exercício:**
