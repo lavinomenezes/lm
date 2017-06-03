@@ -127,12 +127,21 @@
 ## Aula 11 - Trabalhando com font-family e icones (31/05/17)
 
 **Conteúdo:**
+- at-rules: @font-face(src, font-family), @media
+- Famílias de fonte: serif, sans-serif, monospace, fantasy, cursive, system-ui
+- Google Web Font: @font-face e .ttf, <link>; Fonte primária e secundária
+- Icons: material icons, font-awesome
+- Media print, @media print
 
 **Exercício:**
 
 ## Aula 12 - Trabalhando com font-family e icones (02/06/17)
 
 **Conteúdo:**
+- Seletores: * (universal), .class.class
+- Propriedades: width, height, vertical-align, line-height, cursor, box-shadow, border-radius, border
+- Estilizando botão
+- <color>: nominal, hexa, rgb, rgba
 
 **Exercício:**
 

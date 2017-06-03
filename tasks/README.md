@@ -15,5 +15,6 @@
 * [Analisando uma página com Estilo](inspect-style/README.md)
 * [Criando seu primeiro estilo](hello-world-css/README.md)
 * [Curriculum Viate com estilo](curriculum-style-text/README.md)
+* [Curriculum Viate com ícones e web font](curriculum-style-icon/README.md)
 
 ## XML
