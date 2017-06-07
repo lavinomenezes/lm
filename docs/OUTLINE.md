@@ -134,6 +134,7 @@
 - Media print, @media print
 
 **Exercício:**
+* Testar o uso de ícones e web fontes
 
 ## Aula 12 - Trabalhando com font-family e icones (02/06/17)
 
@@ -144,9 +145,22 @@
 - <color>: nominal, hexa, rgb, rgba
 
 **Exercício:**
+* Tentar criar um botão estilizado com CSS
 
 ## Aula 13 - Trabalhando com font-family e icones (03/06/17)
 
-**Conteúdo:**
-
 **Exercício:**
+
+* Curriculum Viate com ícones e web font
+
+## Aula 14 - Box Model e Tabelas
+
+**Conteúdo:**
+- Tabela:
+  - Tags: table, thead, tbody, tfoot, tr, th, td
+  - Atributos: border, colspan, rowspan
+  - Propriedades: border-colapse
+- Box Model
+  - margin
+  - padding
+  - border (border-style, border-width, border-color)
