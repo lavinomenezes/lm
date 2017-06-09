@@ -153,7 +153,7 @@
 
 * Curriculum Viate com ícones e web font
 
-## Aula 14 - Box Model e Tabelas
+## Aula 14 - Box Model e Tabelas (07/06/17)
 
 **Conteúdo:**
 - Tabela:
@@ -164,3 +164,10 @@
   - margin
   - padding
   - border (border-style, border-width, border-color)
+
+## Aula 15 - Trabalhando com Box Model e Tabelas (09/06/17)
+
+**Exercício:**
+
+* Estilando tabelas
+* Curriculum Viate com layout básico
