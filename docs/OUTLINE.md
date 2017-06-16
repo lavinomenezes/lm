@@ -163,7 +163,11 @@
 - Box Model
   - margin
   - padding
-  - border (border-style, border-width, border-color)
+  - border (border, border-style, border-width, border-color)
+
+**Exercício:**
+
+* Acessar o último cúrriculo e tentar aplicar margin e padding nele, principalmente, para que o conteúdo principal fique centralizado.
 
 ## Aula 15 - Trabalhando com Box Model e Tabelas (09/06/17)
 
@@ -171,3 +175,17 @@
 
 * Estilando tabelas
 * Curriculum Viate com layout básico
+
+## Aula 16 - Cascata no CSS (14/06/17)
+
+**Conteúdo:**
+- Algoritmo de cascata (importância, especificidade e local de declaração).
+
+**Exercício:**
+
+* Estilando tabelas
+- Acesse algum site e tente analisar o funcionamento da cascata.
+
+## Aula 17 - Display no CSS (16/06/17)
+
+**Conteúdo:**
