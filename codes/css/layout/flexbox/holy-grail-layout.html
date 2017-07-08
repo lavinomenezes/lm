@@ -30,7 +30,7 @@
     background: lightgreen;
   }
 
-  .main {
+  .article {
     text-align: left;
     background: deepskyblue;
   }
@@ -48,9 +48,9 @@
   }
 
   @media all and (min-width: 800px) {
-    .main    { flex: 3 0px; }
+    .article    { flex: 3 0px; }
     .aside-1 { order: 1; }
-    .main    { order: 2; }
+    .article    { order: 2; }
     .aside-2 { order: 3; }
     .footer  { order: 4; }
   }
@@ -59,7 +59,7 @@
 <body>
   <main>
     <header class="header">Header</header>
-    <article class="main">
+    <article class="article">
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis officia, incidunt deserunt, perspiciatis ullam eum quisquam, ex fugit non culpa necessitatibus, voluptas adipisci atque consequatur neque molestiae tenetur magni nesciunt.</p>
     </article>
     <aside class="aside aside-1">Aside 1</aside>
