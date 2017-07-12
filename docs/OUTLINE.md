@@ -189,3 +189,120 @@
 ## Aula 17 - Display no CSS (16/06/17)
 
 **Conteúdo:**
+- Display: block, inline, inline-block
+- white-space
+
+## Aula 18 - Avaliação I (21/06/17)
+
+## Aula 19 -  (28/06/17)
+
+**Conteúdo:**
+- Flexbox Layout
+
+## Aula 20 - Flexbox (01/07/17)
+
+**Conteúdo:**
+- Revisão de Flexbox Layout
+- Display: flexbox
+- Tags semânticas
+
+## Aula 21 - Grid Layout (05/07/17)
+
+**Conteúdo:**
+- Préfixo
+- Grid Layout
+- Display: grid
+
+## Aula 22 - Plano de Fundo (07/07/17)
+
+**Conteúdo:**
+- Plano de fundo
+- Display: none
+- Visibility: hidden
+
+## Aula 23 - Exercitando Layout 12/07/17
+
+**Conteúdo**
+- Exercício de Layout
+
+## Aula 24 - Position 14/07/17
+
+**Conteúdo**
+- Posicionamento de elementos
+
+## Aula 25 - Responsividade 15/07/17
+
+**Conteúdo**
+- Design Responsivo & Mobile-first
+
+## Aula 26 - Exercitando Layout 19/07/17
+
+**Conteúdo**
+- Exercício de Layout
+
+## Aula 27 - Projeto & Blog 21/07/17
+
+**Conteúdo**
+- Apresentação Projeto & Blog
+
+## Aula 28 - Animation 26/07/17
+
+**Conteúdo**
+- Animation & Grandiente
+
+## Aula 29 - Exercitando Layout 28/07/17
+
+**Conteúdo**
+- Exercício de Layout
+
+## Aula 30 -  02/08/17
+
+**Conteúdo**
+- Formulário
+
+## Aula 31 -  04/08/17
+
+**Conteúdo**
+- Formulário
+
+## Aula 32 -  09/08/17
+
+**Conteúdo**
+- Exercício de Form
+
+## Aula 33 -  11/08/17
+
+**Conteúdo**
+- Prova
+
+## Aula 34 - 12/08/17
+
+**Conteúdo**
+- Componentes Web & Recursos da Web
+
+## Aula 35 -  16/08/17
+
+**Conteúdo**
+- XML e Namespace
+
+## Aula 36 -  18/08/17
+
+**Conteúdo**
+- XML Namespace & DTD
+
+## Aula 37 -  23/08/17
+
+**Conteúdo**
+- XSD
+
+## Aula 38 -  25/08/17
+
+**Conteúdo**
+- XSD
+
+## Aula 39 -  26/08/17
+
+**Conteúdo**
+- Projeto & Blog
+
+## Aula 40 -
