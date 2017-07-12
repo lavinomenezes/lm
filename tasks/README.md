@@ -18,5 +18,6 @@
 * [Curriculum Viate com ícones e web font](curriculum-style-icon/README.md)
 * [Estilizando tabelas](table-css/README.md)
 * [Curriculum Viate com layout básico](curriculum-style-layout/README.md)
+* [Layout com Portifólio](portfolio-initial/README.md)
 
 ## XML
