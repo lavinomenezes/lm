@@ -187,7 +187,7 @@ footer section.social a {
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  /*transition: all .6s;*/
+  transition: all .6s;
 }
 
 footer section.social a:hover {
