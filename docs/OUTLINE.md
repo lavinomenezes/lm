@@ -228,12 +228,13 @@
 ## Aula 24 - Position 14/07/17
 
 **Conteúdo**
-- Posicionamento de elementos
+- Revisão de background, display flex e grid
 
 ## Aula 25 - Responsividade 15/07/17
 
 **Conteúdo**
 - Design Responsivo & Mobile-first
+- Posicionamento de elementos
 
 ## Aula 26 - Exercitando Layout 19/07/17
 
