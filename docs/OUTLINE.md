@@ -220,76 +220,77 @@
 - Display: none
 - Visibility: hidden
 
-## Aula 23 - Exercitando Layout 12/07/17
+## Aula 23 - Exercitando Layout (12/07/17)
 
 **Conteúdo**
 - Exercício de Layout
 
-## Aula 24 - Position 14/07/17
+## Aula 24 - Position (14/07/17)
 
 **Conteúdo**
 - Revisão de background, display flex e grid
 
-## Aula 25 - Responsividade 15/07/17
+## Aula 25 - Responsividade (15/07/17)
 
 **Conteúdo**
 - Design Responsivo & Mobile-first
-- Posicionamento de elementos
 
-## Aula 26 - Exercitando Layout 19/07/17
+## Aula 26 - Exercitando Layout (19/07/17)
 
 **Conteúdo**
 - Exercício de Layout
 
-## Aula 27 - Projeto & Blog 21/07/17
+## Aula 27 - Projeto & Blog (21/07/17)
 
 **Conteúdo**
 - Apresentação Projeto & Blog
 
-## Aula 28 - Animation 26/07/17
+## Aula 28 - Formulário (26/07/17)
 
 **Conteúdo**
-- Animation & Grandiente
+- Formulário
+- Posicionamento de elementos
 
-## Aula 29 - Exercitando Layout 28/07/17
+
+## Aula 29 - Formulário (28/07/17)
 
 **Conteúdo**
-- Exercício de Layout
+- Formulário
 
 ## Aula 30 -  02/08/17
 
 **Conteúdo**
-- Formulário
+- Recursos da Web
 
 ## Aula 31 -  04/08/17
 
 **Conteúdo**
-- Formulário
+- Prova
 
 ## Aula 32 -  09/08/17
 
 **Conteúdo**
-- Exercício de Form
+- XML e Namespace
 
 ## Aula 33 -  11/08/17
 
 **Conteúdo**
-- Prova
+- XML Namespace & DTD
 
 ## Aula 34 - 12/08/17
 
 **Conteúdo**
-- Componentes Web & Recursos da Web
+- Componentes Web
 
 ## Aula 35 -  16/08/17
 
 **Conteúdo**
-- XML e Namespace
+- Animation & Grandiente
 
 ## Aula 36 -  18/08/17
 
 **Conteúdo**
-- XML Namespace & DTD
+- Exercício de Layout (Animation & Grandiente)
 
 ## Aula 37 -  23/08/17
 
