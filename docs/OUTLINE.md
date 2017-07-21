@@ -194,7 +194,7 @@
 
 ## Aula 18 - Avaliação I (21/06/17)
 
-## Aula 19 -  (28/06/17)
+## Aula 19 -  Flexbox (28/06/17)
 
 **Conteúdo:**
 - Flexbox Layout
@@ -225,7 +225,7 @@
 **Conteúdo**
 - Exercício de Layout
 
-## Aula 24 - Position (14/07/17)
+## Aula 24 - Revisão Layout e Backgroud (14/07/17)
 
 **Conteúdo**
 - Revisão de background, display flex e grid
@@ -240,29 +240,28 @@
 **Conteúdo**
 - Exercício de Layout
 
-## Aula 27 - Projeto & Blog (21/07/17)
+## Aula 27 - Recursos da Web (21/07/17)
+
+**Conteúdo**
+- Recursos da Web
+
+## Aula 28 - Projeto & Blog (26/07/17)
 
 **Conteúdo**
 - Apresentação Projeto & Blog
-
-## Aula 28 - Formulário (26/07/17)
-
-**Conteúdo**
-- Formulário
-- Posicionamento de elementos
-
 
 ## Aula 29 - Formulário (28/07/17)
 
 **Conteúdo**
 - Formulário
+- Posicionamento de elementos
 
-## Aula 30 -  02/08/17
+## Aula 30 - Formulário (02/08/17)
 
 **Conteúdo**
-- Recursos da Web
+- Formulário
 
-## Aula 31 -  04/08/17
+## Aula 31 - Prova II (04/08/17)
 
 **Conteúdo**
 - Prova
