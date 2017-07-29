@@ -16,15 +16,13 @@ Desenvolver um website com tema à escolha de cada grupo (com no máximo 3 aluno
 
 * Maximizar a utilização de seletores na estilização com CSS: ID, class, cascata e herança, pseudo-classes e pseudo-elementos. *P.S.* Não é necessário utilizar todas as possibilidades, mas tire proveito do que o CSS3 pode lhes oferecer.
 
-* Crie ao menos duas listas no seu projeto, sendo que em uma delas o display deve ser inline-block. P.S. A renderização lado a lado pode ser utilizada com outros elementos do website, além da possibilidade de utilização de outros valores para a propriedade display.
-
-* Posicionar os elementos do seu website utilizando ao menos dois valores diferentes da propriedades position: fixed, relative, absolute, static.
+* Posicionar os elementos do seu website utilizando conceito de layout em CSS: float, position, grid, flexbox, etc.
 
 * Trabalhe imagens com gradientes no seu projeto, anime os elementos do seu website com transition e altere propriedades visuais dos elementos com transform.
 
 * Crie uma área de Contato utilizando formulários.
 
-* Crie um design da página seja responsivo, para garantir uma visualização confortável nos dispositivos móveis.
+* Crie um design da página que seja responsivo, para garantir uma visualização confortável nos dispositivos móveis.
 
 * Inclua algum recursos de Serviços disponíveis na Web.
 
@@ -35,8 +33,7 @@ Critérios (%)  | Projeto 1 | Projeto 2 | ... | Projeto n
 tags semânticas* |  |  | |
 propriedades |  |  |  |
 seletores |  |  |  |
-listas** |  |  |  |
-positions |  |  |  |
+layout** |  |  |  |
 gradientes |  |  |  |
 animações |  |  |  |
 contato |  |  |  |
@@ -46,16 +43,16 @@ Nota*** |  |  |  |
 
 *(\*) Será exigido a utilização de no mínimo três páginas.*
 
-*(\*\*) Será exigido a utilização de no mínimo uma lista inline.*
+*(\*\*) O layout possuíra peso 2.*
 
 *(\*\*\*) A soma de todos os itens será 10,0.*
 
 Devido a maleabilidade do tema central do projeto, também foi definido que o tema não entraria no critério de avalição dessa atividade, o que de certa forma permitirá que as equipes explorem e desenvolvam suas criatividades.
 
->Contudo, ocorrerão penalizações quando houver falta de usabilidade, de domínio do projeto e de cumprimento no prazo estipulado para apresentação e entrega do projeto. Também vale salientar que sua validade será perdida caso não seja:
->
->  * Apresentado na data marcada;
->  * Entregue o endereço do repositório contendo todo o código fonte e material exigido.
+Contudo, ocorrerão penalizações quando houver falta de usabilidade, de domínio do projeto e de cumprimento no prazo estipulado para apresentação e entrega do projeto. Também vale salientar que sua validade será perdida caso não seja:
+
+* Apresentado na data marcada;
+* Entregue o endereço do repositório contendo todo o código fonte e material exigido.
 
 ## Projetos
 
