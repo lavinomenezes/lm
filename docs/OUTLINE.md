@@ -254,12 +254,11 @@
 
 **Conteúdo**
 - Formulário
-- Posicionamento de elementos
 
-## Aula 30 - Formulário (02/08/17)
+## Aula 30 - Revisão (02/08/17)
 
 **Conteúdo**
-- Formulário
+- Revisão Layout
 
 ## Aula 31 - Prova II (04/08/17)
 
@@ -279,17 +278,18 @@
 ## Aula 34 - 12/08/17
 
 **Conteúdo**
-- Componentes Web
+- Posicionamento de elementos
+- Animation & Grandiente
 
 ## Aula 35 -  16/08/17
 
 **Conteúdo**
-- Animation & Grandiente
+- Exercício de Layout (Animation & Grandiente)
 
 ## Aula 36 -  18/08/17
 
 **Conteúdo**
-- Exercício de Layout (Animation & Grandiente)
+- Componentes Web
 
 ## Aula 37 -  23/08/17
 
